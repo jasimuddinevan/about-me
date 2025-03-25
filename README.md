@@ -1,4 +1,4 @@
-# 🚀 Brajendra's Portfolio  
+# 🚀 Jasim's Portfolio  
 
 Welcome to my portfolio! This website showcases my skills, projects, and achievements in tech, coding, and content creation.  
 
